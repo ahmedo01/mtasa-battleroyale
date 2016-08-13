@@ -1,0 +1,4 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<export function="addStat" type="server" />
+</meta>

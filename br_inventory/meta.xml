@@ -1,0 +1,51 @@
+<meta>
+	<file src="sounds/inv_open.ogg" />
+	<file src="sounds/inv_drop.ogg" />
+	<file src="sounds/inv_close.ogg" />
+	<file src="sounds/inv_slot.ogg" />
+	<file src="sounds/inv_get.ogg" />
+	<script src="slither.lua" type="client" />
+	<script src="slither.lua" type="server" />
+	
+	<file src="img/icons/ak-47.png" type="client"/>
+	<file src="img/icons/ak-47_ammo.png" type="client"/>
+	<file src="img/icons/apteczka.png" type="client"/>
+	<file src="img/icons/armor.png" type="client"/>
+	<file src="img/icons/bandage.png" type="client"/>
+	<file src="img/icons/combat.png" type="client"/>
+	<file src="img/icons/combat_ammo.png" type="client"/>
+	<file src="img/icons/cuntgun.png" type="client"/>
+	<file src="img/icons/cuntgun_ammo.png" type="client"/>
+	<file src="img/icons/deagle.png" type="client"/>
+	<file src="img/icons/deagle_ammo.png" type="client"/>
+	<file src="img/icons/helmet.png" type="client"/>
+	<file src="img/icons/m4.png" type="client"/>
+	<file src="img/icons/m4_ammo.png" type="client"/>
+	<file src="img/icons/mp5.png" type="client"/>
+	<file src="img/icons/mp5_ammo.png" type="client"/>
+	<file src="img/icons/pistol.png" type="client"/>
+	<file src="img/icons/pistol_ammo.png" type="client"/>
+	<file src="img/icons/shotgun.png" type="client"/>
+	<file src="img/icons/shotgun_ammo.png" type="client"/>
+	<file src="img/icons/silenced.png" type="client"/>
+	<file src="img/icons/silenced_ammo.png" type="client"/>
+	<file src="img/icons/sniper.png" type="client"/>
+	<file src="img/icons/sniper_ammo.png" type="client"/>
+	<script src="inventory_c.lua" type="client" />
+	
+	<script src="g_items.lua" type="client" />
+	<script src="g_items.lua" type="server" />
+	<file src="img/k.png" type="client" />
+	<file src="img/MotorcycleHelmet2.dff" type="client" />
+	<file src="img/MotorcycleHelmet2.col" type="client" />
+	<file src="img/MatClothes.txd" type="client" />
+	<script src="async.lua" type="client" />
+	<script src="items_c.lua" type="client" />
+	
+	<script src="spawns.lua" type="server" />
+	
+	<export function="spawnGameItems" type="server" />
+	<export function="deleteGameItems" type="server" />
+	<script src="async.lua" type="server" />
+	<script src="items_s.lua" type="server" />
+</meta>

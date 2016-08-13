@@ -1,0 +1,145 @@
+ <meta>
+	<!-- Radar -->
+	<script src="blips.lua" type="client"></script>
+    <script src="minimap.lua" type="client"></script>
+	<file src="texreplace.fx"></file>
+	<file src="texture.fx"></file>
+	
+	<file src="sniper.txd" />
+	<file src="logo.png" />
+	<file src="images/weapon/0.png" />
+	<file src="images/weapon/1.png" />
+	<file src="images/weapon/2.png" />
+	<file src="images/weapon/3.png" />
+	<file src="images/weapon/4.png" />
+	<file src="images/weapon/5.png" />
+	<file src="images/weapon/6.png" />
+	<file src="images/weapon/7.png" />
+	<file src="images/weapon/8.png" />
+	<file src="images/weapon/9.png" />
+	<file src="images/weapon/10.png" />
+	<file src="images/weapon/11.png" />
+	<file src="images/weapon/12.png" />
+	<file src="images/weapon/14.png" />
+	<file src="images/weapon/15.png" />
+	<file src="images/weapon/16.png" />
+	<file src="images/weapon/17.png" />
+	<file src="images/weapon/18.png" />
+	<file src="images/weapon/22.png" />
+	<file src="images/weapon/23.png" />
+	<file src="images/weapon/24.png" />
+	<file src="images/weapon/25.png" />
+	<file src="images/weapon/26.png" />
+	<file src="images/weapon/27.png" />
+	<file src="images/weapon/28.png" />
+	<file src="images/weapon/29.png" />
+	<file src="images/weapon/30.png" />
+	<file src="images/weapon/31.png" />
+	<file src="images/weapon/32.png" />
+	<file src="images/weapon/33.png" />
+	<file src="images/weapon/34.png" />
+	<file src="images/weapon/35.png" />
+	<file src="images/weapon/36.png" />
+	<file src="images/weapon/37.png" />
+	<file src="images/weapon/38.png" />
+	<file src="images/weapon/39.png" />
+	<file src="images/weapon/40.png" />
+	<file src="images/weapon/41.png" />
+	<file src="images/weapon/42.png" />
+	<file src="images/weapon/43.png" />
+	<file src="images/weapon/44.png" />
+	<file src="images/weapon/45.png" />
+	<file src="images/weapon/46.png" />
+	<script src="hud.lua" type="client" />
+	
+	<file src="crosshair/dot.png" />
+	<file src="crosshair/hunting.png" />
+	<file src="crosshair/none.png" />
+	<file src="crosshair/mp.png" />
+	<file src="crosshair/pistol.png" />
+	<file src="crosshair/rifle.png" />
+	<file src="crosshair/shotgun.png" />
+	<file src="crosshair/hitmarker.png" />
+	<file src="crosshair/hitmarker-sound.wav" />
+	<script src="crosshair.lua" type="client" />
+	
+	<file src="hits/back_1.png" type="client" />
+	<file src="hits/back_2.png" type="client" />
+	<file src="hits/front_1.png" type="client" />
+	<file src="hits/front_2.png" type="client" />
+	<file src="hits/left_1.png" type="client" />
+	<file src="hits/left_2.png" type="client" />
+	<file src="hits/right_1.png" type="client" />
+	<file src="hits/right_2.png" type="client" />
+	<script src="hits.lua" type="client" />
+	
+	<file src="images/hp.png"></file>
+	<file src="images/armor.png"></file>
+	<file src="blips/arrow.png"></file>
+	<file src="blips/radar_airYard.png"></file>
+	<file src="blips/radar_ammugun.png"></file>
+	<file src="blips/radar_barbers.png"></file>
+	<file src="blips/radar_BIGSMOKE.png"></file>
+	<file src="blips/radar_boatyard.png"></file>
+	<file src="blips/radar_bulldozer.png"></file>	
+	<file src="blips/radar_burgerShot.png"></file>
+	<file src="blips/radar_cash.png"></file>
+	<file src="blips/radar_CATALINAPINK.png"></file>
+	<file src="blips/radar_centre.png"></file>
+	<file src="blips/radar_CESARVIAPANDO.png"></file>
+	<file src="blips/radar_chicken.png"></file>
+	<file src="blips/radar_CJ.png"></file>
+	<file src="blips/radar_CRASH1.png"></file>
+	<file src="blips/radar_dateDisco.png"></file>
+	<file src="blips/radar_dateDrink.png"></file>
+	<file src="blips/radar_dateFood.png"></file>
+	<file src="blips/radar_diner.png"></file>
+	<file src="blips/radar_emmetGun.png"></file>
+	<file src="blips/radar_enemyAttack.png"></file>
+	<file src="blips/radar_fire.png"></file>
+	<file src="blips/radar_Flag.png"></file>
+	<file src="blips/radar_gangB.png"></file>
+	<file src="blips/radar_gangG.png"></file>
+	<file src="blips/radar_gangN.png"></file>
+	<file src="blips/radar_gangP.png"></file>
+	<file src="blips/radar_gangY.png"></file>
+	<file src="blips/radar_girlfriend.png"></file>
+	<file src="blips/radar_gym.png"></file>
+	<file src="blips/radar_hostpital.png"></file>	
+	<file src="blips/radar_impound.png"></file>
+	<file src="blips/radar_light.png"></file>
+	<file src="blips/radar_LocoSyndicate.png"></file>
+	<file src="blips/radar_MADDOG.png"></file>
+	<file src="blips/radar_mafiaCasino.png"></file>
+	<file src="blips/radar_MCSTRAP.png"></file>
+	<file src="blips/radar_modGarage.png"></file>
+	<file src="blips/radar_north.png"></file>
+	<file src="blips/radar_OGLOC.png"></file>
+	<file src="blips/radar_pizza.png"></file>
+	<file src="blips/radar_police.png"></file>
+	<file src="blips/radar_propertyG.png"></file>
+	<file src="blips/radar_propertyR.png"></file>
+	<file src="blips/radar_qmark.png"></file>
+	<file src="blips/radar_race.png"></file>
+	<file src="blips/radar_runway.png"></file>
+	<file src="blips/radar_RYDER.png"></file>
+	<file src="blips/radar_saveGame.png"></file>
+	<file src="blips/radar_school.png"></file>
+	<file src="blips/radar_spray.png"></file>
+	<file src="blips/radar_SWEET.png"></file>
+	<file src="blips/radar_ZERO.png"></file>
+	<file src="blips/radar_tattoo.png"></file>
+	<file src="blips/radar_THETRUTH.png"></file>
+	<file src="blips/radar_TORENO.png"></file>
+	<file src="blips/radar_TorenoRanch.png"></file>
+	<file src="blips/radar_triads.png"></file>
+	<file src="blips/radar_triadsCasino.png"></file>
+	<file src="blips/radar_truck.png"></file>
+	<file src="blips/radar_tshirt.png"></file>
+	<file src="blips/radar_waypoint.png"></file>
+	<file src="blips/radar_WOOZIE.png"></file>
+	<file src="blips/radardisc.png"></file>
+	<file src="blips/radarRingPlane.png"></file>
+	<file src="blips/siteM16.png"></file>
+	<file src="blips/siterocket.png"></file>	
+</meta>

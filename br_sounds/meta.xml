@@ -1,0 +1,13 @@
+<meta>
+	<file src="weapons/22.wav" type="client" />
+	<file src="weapons/24.wav" type="client" />
+	<file src="weapons/25.wav" type="client" />
+	<file src="weapons/27.wav" type="client" />
+	<file src="weapons/29.wav" type="client" />
+	<file src="weapons/30.wav" type="client" />
+	<file src="weapons/31.wav" type="client" />
+	<file src="weapons/33.wav" type="client" />
+	<file src="weapons/34.wav" type="client" />
+	
+	<script src="c_weapons.lua" type="client" />
+</meta>	

@@ -1,0 +1,4 @@
+<meta>
+	<script src="startup.lua" type="server" />
+	<script src="s_id.lua" type="server" />
+</meta>

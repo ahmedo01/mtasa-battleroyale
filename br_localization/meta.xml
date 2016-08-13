@@ -1,0 +1,8 @@
+<meta>
+	<script src="g_localization.lua" type="client" />
+	<script src="g_localization.lua" type="server" />
+	<export function="setPlayerLocalization" type="client" />
+	<export function="setPlayerLocalization" type="server" />
+	<export function="getText" type="client" />
+	<export function="getText" type="server" />
+</meta>

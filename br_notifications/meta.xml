@@ -1,0 +1,12 @@
+<meta>
+	<info name="Simple Notifications" author="Jayceon" version="1.0.2" type="script" />
+
+	<script src="sourceC.lua" type="client" />
+	<script src="sourceS.lua" type="server" />
+	
+	<file src="files/fonts/roboto.ttf" />
+	<file src="files/fonts/icons.ttf" />
+	
+	<export function="addNotification" type="client" />
+	<export function="addNotification" type="server" />
+</meta>

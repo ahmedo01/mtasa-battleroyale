@@ -1,0 +1,13 @@
+<meta>
+	<info author="Brzysiek" version="1.0" name="Battle Royale - Gaz" />
+	<oop>true</oop>
+	
+	<file src="fx/material3D.fx" type="client" />
+	<script src="c_material3D.lua" type="client" />
+	
+	<file src="white.png" type="client" />
+	<script src="slither.lua" type="client" />
+	<script src="async.lua" type="client" />
+	<script src="c.lua" type="client" />
+	<script src="s.lua" type="server" />
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+	<file src="font.ttf" type="client" />
+	<script src="c.lua" type="client" />
+</meta>

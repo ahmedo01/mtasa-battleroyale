@@ -1,0 +1,6 @@
+<meta>
+	<file src="i/english.png" />
+	<file src="i/polish.png" />
+	<file src="s/music.mp3" />
+	<script src="c.lua" type="client" />
+</meta>
